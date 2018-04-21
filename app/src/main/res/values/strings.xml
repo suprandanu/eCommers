@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eCommers</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="lanjutkan_dengan_facebook">Lanjutkan dengan Facebook</string>
+    <string name="login_melalui_google">LOGIN MELALUI GOOGLE</string>
+    <string name="login_cepat_dengan">Login Cepat Dengan</string>
+</resources>
